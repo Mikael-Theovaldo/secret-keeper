@@ -1,4 +1,4 @@
-package secretKeeper.service;
+package main.java.com.secretKeeper.service;
 
 public class SorteioNumeroService {
 }

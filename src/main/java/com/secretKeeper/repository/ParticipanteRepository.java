@@ -1,4 +1,4 @@
-package secretKeeper.repository;
+package main.java.com.secretKeeper.repository;
 
 public class ParticipanteRepository {
 }
