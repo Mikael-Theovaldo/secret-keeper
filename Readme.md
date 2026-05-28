@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 Secret Keeper é um sistema de sorteios interativo para uso presencial em grupo.  
 Executado em um único dispositivo, garante **imparcialidade**, **sigilo** e **simplicidade**, sem depender de internet ou bibliotecas externas.
 
@@ -15,19 +15,19 @@ O código segue boas práticas de **orientação a objetos** e **arquitetura em 
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Fornecer uma ferramenta confiável para sorteios em grupo, desde o clássico **Amigo Secreto** até formações de times e ordens de apresentação, sempre com regras claras e resultados justos.
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
-### 👥 Participantes
+###  Participantes
 - **Adicionar** nomes (sem duplicatas)
 - **Listar** todos cadastrados
 - **Remover** pelo índice da lista
 
-### 🎁 Modos de sorteio
+###  Modos de sorteio
 1. **Amigo Secreto**
     - Algoritmo de *derangement* (ninguém sorteia a si mesmo, sem pares invertidos)
     - Revelação individual com limpeza de tela
@@ -49,5 +49,5 @@ Fornecer uma ferramenta confiável para sorteios em grupo, desde o clássico **A
 
 ---
 
-## 🏗️ Estrutura do projeto
+##  Estrutura do projeto
 
