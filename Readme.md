@@ -1,4 +1,4 @@
-# 🎲 Secret Keeper — Sistema Interativo de Sorteios
+#  Secret Keeper — Sistema Interativo de Sorteios
 
 **Linguagem:** Java  
 **Paradigma:** Orientado a Objetos  
