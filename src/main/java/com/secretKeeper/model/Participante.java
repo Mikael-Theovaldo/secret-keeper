@@ -1,5 +1,6 @@
 package main.java.com.secretKeeper.model;
 
+
 import java.util.Objects;
 
 public class Participante {
