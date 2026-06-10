@@ -3,7 +3,7 @@ package main.java.com.secretKeeper.views;
 import main.java.com.secretKeeper.model.Participante;
 import main.java.com.secretKeeper.repository.ParticipanteRepository;
 import main.java.com.secretKeeper.service.*;
-import main.java.com.secretKeeper.util.Entrgit
+import main.java.com.secretKeeper.util.EntradaUtil;
 
 import java.util.List;
 
