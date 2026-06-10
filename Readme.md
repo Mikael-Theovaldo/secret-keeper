@@ -200,7 +200,7 @@ Projeto desenvolvido por:
 | Nome | GitHub |
 |------|--------|
 | **Mikael Theovaldo** | [@Mikael-Theovaldo](https://github.com/Mikael-Theovaldo) |
-| **Victor** | [@victor-coffee](https://github.com/victor-coffee) |
+| **Victor** | [@victorhugoEnginee](https://github.com/victorhugoEnginee) |
 | **João** | [@rocksDjoao](https://github.com/rocksDjoao) |
 
 ---
