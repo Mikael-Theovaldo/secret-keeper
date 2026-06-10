@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper.util;
+package secretKeeper.util;
 
 public class EntradaUtil {
 }

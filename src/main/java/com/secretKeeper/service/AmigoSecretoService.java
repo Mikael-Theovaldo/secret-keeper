@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper.service;
+package secretKeeper.service;
 
 public class AmigoSecretoService {
 }

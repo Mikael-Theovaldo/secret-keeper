@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper.views;
+package secretKeeper.views;
 
 public class Menu {
 }

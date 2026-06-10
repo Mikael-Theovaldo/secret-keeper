@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper;
+package secretKeeper;
 
 public class Main {
 }
