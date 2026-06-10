@@ -36,7 +36,6 @@ public class Menu {
 
                 case 3:
 
-                    // implementar o indice indicando a sequencia de participantes ex: 1 - theo 2 - joao ...
                     System.out.println("\n[Remover participante]");
                     int indice =
                             EntradaUtil.lerInteiro("Informe o índice:");
@@ -44,7 +43,7 @@ public class Menu {
                     break;
 
                 case 4:
-                    // problema : nome titando o proprio nome
+
                     System.out.println("\n[Amigo secreto]");
                     List<String> participantes = ParticipanteRepository.listar();
 
@@ -174,7 +173,7 @@ public class Menu {
         } while (opcao != 9);
     }
 
-    // Método privado para desenhar as opções na tela
+
     private void exibirMenu() {
         System.out.println("\n=== SISTEMA DE SORTEIOS ===");
         System.out.println("1 - Adicionar participante");
