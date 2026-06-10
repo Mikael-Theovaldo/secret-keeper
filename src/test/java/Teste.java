@@ -2,6 +2,7 @@ package test.java;
 
 import main.java.com.secretKeeper.model.Participante;
 import main.java.com.secretKeeper.repository.ParticipanteRepository;
+
 import main.java.com.secretKeeper.service.*;
 import org.junit.Test;
 import static org.junit.Assert.*;
@@ -27,7 +28,7 @@ public class Teste {
     // ---------- FormacaoTimesServices ----------
     @Test
     public void testFormarTimesDistribuicao() {
-        FormacaoTimesServices service = new FormacaoTimesServices();
+        FormacaoTimesService service = new FormacaoTimesService();
         List<String> participantes = Arrays.asList("Ana", "Bruno", "Carlos", "Daniel");
         List<List<String>> times = service.formarTimes(participantes, 2);
 
