@@ -2,7 +2,7 @@ package variosSorteios.ui;
 
 import variosSorteios.util.EntradaUtil;
 
-public class Main {
+public class  Main {
 
     public static void main(String[] args) {
 
