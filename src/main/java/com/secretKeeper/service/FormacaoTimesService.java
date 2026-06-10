@@ -1,11 +1,11 @@
-package main.java.com.secretKeeper.service;
+package com.secretKeeper.service;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class FormacaoTimesService {
+public class FormacaoTimesService{
 
     public List<List<String>> formarTimes(List<String> participantes, int numeroDeTimes) {
 
