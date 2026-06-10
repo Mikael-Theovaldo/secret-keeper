@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper.repository;
+package com.secretKeeper.repository;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,11 @@ public class ParticipanteRepository {
         participantes.add(nome);
     }
 
-    public static void remover(int indice){
+    public static void remover(int numero){
+        int indice = numero - 1; // converte para índice interno (0-based)
+        if (indice < 0 || indice >= participantes.size()) {
+            throw new IllegalArgumentException("Número inválido. Informe um número entre 1 e " + participantes.size());
+        }
         participantes.remove(indice);
     }
 
