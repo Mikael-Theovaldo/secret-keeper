@@ -1,4 +1,4 @@
-package main.java.com.secretKeeper.service;
+package com.secretKeeper.service;
 
 import main.java.com.secretKeeper.model.Participante;
 
