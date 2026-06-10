@@ -1,5 +1,4 @@
-package main.java.com.secretKeeper.model;
-
+package com.secretKeeper.model;
 
 import java.util.Objects;
 
